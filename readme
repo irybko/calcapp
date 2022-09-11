@@ -1,8 +1,5 @@
-/*
-	Copyright (c) 2019-2022 Ivan B. Rybko
+	Copyright (c) 2022 Ivan B. Rybko
 	=====================================
-
-	This program is a part of golang middleware functions library package mcode.
 
 	This program is free software: you can redistribute it and/or modify 
 	it under the terms of the GNU General Public License as published by 
@@ -17,16 +14,7 @@
 	You should have received a copy of the GNU General Public License 
 	along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-*/
-
-Hi, everybody who reads this text.
-This is the simple calc application written in SWI-PROLOG for self study targets.
-It implements four actions, such as plus, minus, divide, multiple between integer and float numbers.
-It implements mostly in pure prolog.
-
-At nearist future I hope to add another implemention of this task using DCG.
-To be continue...
- 
-
-  
-
+	Hi, everybody who reads this text.
+	This is the simple calc application written in SWI-PROLOG for self study targets.
+	It implements infix expressions calculator with two operands and operator between them.
+	Operator may be one of for elementary actions such as plus, minus, divide, multiple between integer and float numbers.
