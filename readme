@@ -1,21 +1,6 @@
 	Copyright (c) 2022 Ivan B. Rybko
 	=====================================
 
-	This program is free software: you can redistribute it and/or modify 
-	it under the terms of the GNU General Public License as published by 
-	the Free Software Foundation, either version 3 of the License, or 
-	(at your option) any later version. 
-
-	This program is distributed in the hope that it will be useful,
-	but WITHOUT ANY WARRANTY; without even the implied warranty of 
-	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
-	See the GNU General Public License for more details.
-
-	You should have received a copy of the GNU General Public License 
-	along with this program. If not, see <https://www.gnu.org/licenses/>.
-
 	Hi, everybody who reads this text.
-	This is the simple calc application written in SWI-PROLOG for self study targets.
-	It implements infix expressions calculator with two operands and operator between them.
-	Operator may be one of for elementary actions such as plus, minus, divide, multiple between 
-	integer and float numbers.
+	This is the simple calc application written for self study of swi-prolog. 
+	It implements simple calculator with actions such as plus, minus, divide, multiple infix expressions.
