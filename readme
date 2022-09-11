@@ -17,4 +17,5 @@
 	Hi, everybody who reads this text.
 	This is the simple calc application written in SWI-PROLOG for self study targets.
 	It implements infix expressions calculator with two operands and operator between them.
-	Operator may be one of for elementary actions such as plus, minus, divide, multiple between integer and float numbers.
+	Operator may be one of for elementary actions such as plus, minus, divide, multiple between 
+	integer and float numbers.
